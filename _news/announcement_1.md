@@ -5,14 +5,13 @@ inline: true
 related_posts: false
 ---
 
-I'm honored to be invited to deliver a talk for the "Frontiers in Chinese Studies" series organized by Professor Song Chen at <font color=Green>Bucknell University</font>.<br><br>
+Our work has been proudly accepted by <font color=Green>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</font>.<br><br>
 
-**Title:** <u>Historical Minds and Artificial Intelligence: How AI Helps Rediscover Ancient Minds</u>.<br><br>
+**Title:** <u>[Surveying the Dead Minds: Historical-Psychological Text Analysis with Contextualized Construct Representation (CCR) for Classical Chinese](https://aclanthology.org/2024.emnlp-main.151.pdf)</u>.
 
-**Abstract:** Advances in AI, particularly in natural language processing, have enabled large-scale quantitative analysis of historical texts. This talk presents two cases using AI models to explore intellectual debates and cultural psychology in premodern China.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/posters/poster_20240918.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/posters/poster_20240920.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
