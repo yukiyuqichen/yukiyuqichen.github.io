@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our work using AI methods for psychometrics in historical texts has been proudly covered by [MIT Technology Review China](https://www.mittrchina.com/news/detail/13159)!
+Our work using AI methods for psychometrics in historical texts has been proudly covered by [MIT Technology Review China](https://www.mittrchina.com/news/detail/13159).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

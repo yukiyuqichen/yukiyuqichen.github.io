@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 Our work using LLMs for historical geography has been proudly published in  
-<i><a href="https://doi.org/10.1080/13658816.2025.2491711" style="color: green;">International Journal of Geographical Information Science</a></i>!  <br><br>
+<i><a href="https://doi.org/10.1080/13658816.2025.2491711" style="color: green;">International Journal of Geographical Information Science</a></i>.  <br><br>
 
 **Title:** <u>Geocoding the Past World: Unearthing Coordinates of Early China from Texts Using Generative AI</u>.<br><br>
 
