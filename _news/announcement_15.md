@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2025-05-20 00:00:00-00:00:00
+inline: true
+related_posts: false
+---
+
+I'm honored to be invited to deliver a talk for the "DeepSeek AI4RUC Lecture Series" organized by the Platform of Big Data and Responsible Artificial Intelligence for National Governance at <font color=Green>Renming University of China</font>.<br><br>
+
+**Title:** <u>Bridging the Gap: Artificial Intelligence and Interdisciplinary Humanities Research 跨越鸿沟：人工智能与跨学科的人文研究</u>.<br><br>
+
+**Abstract:** The development of artificial intelligence is transforming the way humanities scholars conduct research. Adopting an interdisciplinary perspective, this presentation will illustrate how AI can be effectively integrated into the humanities and social sciences, including psychology, geography, and history, through three specific case studies: (1) surveying the dead minds; (2) geocoding the past world; and (3) renacting intellectual debates in history.
