@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Yuqi Chen.
 
-I'm a PhD candidate at Peking University.
+I'm a PhD graduate of Peking University and will join the University of Hong Kong in the fall of 2025.
 
 My research interests primarily lie in: 
 
